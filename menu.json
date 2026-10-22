@@ -1,0 +1,154 @@
+{
+  "categories": [
+    {
+      "id": "hot_drinks",
+      "name": "☕ Hot Drinks",
+      "items": [
+        {
+          "id": "hot_white",
+          "name": "Hot White",
+          "price": 3.5,
+          "available": true,
+          "remarks_allowed": true
+        },
+        {
+          "id": "hot_black",
+          "name": "Hot Black",
+          "price": 2.0,
+          "available": true,
+          "remarks_allowed": true
+        },
+        {
+          "id": "hot_chocolate",
+          "name": "Hot Chocolate",
+          "price": 3.0,
+          "available": true,
+          "remarks_allowed": true
+        },        
+        {
+          "id": "hot_matcha",
+          "name": "Hot Matcha",
+          "price": 4.0,
+          "available": true,
+          "remarks_allowed": true
+        }
+      ]
+    },
+    {
+      "id": "iced_drinks",
+      "name": "🧊 Iced Drinks",
+      "items": [
+        {
+          "id": "iced_white",
+          "name": "Iced White",
+          "price": 3.5,
+          "available": true,
+          "remarks_allowed": true
+        },
+        {
+          "id": "iced_black",
+          "name": "Iced Black",
+          "price": 2.0,
+          "available": true,
+          "remarks_allowed": true
+        },
+        {
+          "id": "iced_chocolate",
+          "name": "Iced Chocolate",
+          "price": 3.0,
+          "available": true,
+          "remarks_allowed": true
+        },
+        {
+          "id": "iced_matcha",
+          "name": "Iced Matcha",
+          "price": 4.0,
+          "available": true,
+          "remarks_allowed": true
+        },
+        {
+          "id": "iced_strawberry_matcha",
+          "name": "Iced Strawberry Matcha",
+          "price": 6.0,
+          "available": true,
+          "remarks_allowed": true
+        },
+        {
+          "id": "spanish_latte",
+          "name": "Spanish Latte",
+          "price": 4.5,
+          "available": true,
+          "remarks_allowed": true
+        },
+        {
+          "id": "salted_caramel_latte",
+          "name": "Salted Caramel Latte",
+          "price": 5.0,
+          "available": true,
+          "remarks_allowed": true
+        },
+        {
+          "id": "dirty_matcha",
+          "name": "Dirty Matcha",
+          "price": 6.0,
+          "available": true,
+          "remarks_allowed": true
+        },
+        {
+          "id": "protein_smoothie",
+          "name": "Peanut Butter Banana Chocolate Protein Smoothie",
+          "price": 6.0,
+          "available": false,
+          "remarks_allowed": true
+        }
+      ]
+    },
+    {
+      "id": "cheesecake",
+      "name": "🍰 Cheesecake",
+      "items": [
+        {
+          "id": "cheesecake_slice",
+          "name": "Basque Cheesecake (Slice)",
+          "price": 5.5,
+          "available": true,
+          "remarks_allowed": false
+        },
+        {
+          "id": "cheesecake_whole",
+          "name": "Basque Cheesecake (Whole)",
+          "price": 45.0,
+          "available": true,
+          "remarks_allowed": false
+        }
+      ]
+    },
+    {
+      "id": "dessert",
+      "name": "🍨 Dessert",
+      "items": [
+        {
+          "id": "brownie",
+          "name": "Brownie",
+          "price": 2.5,
+          "available": true,
+          "remarks_allowed": false
+        },
+        {
+          "id": "brownie_ice_cream",
+          "name": "Brownie + Ice Cream",
+          "price": 3.5,
+          "available": true,
+          "remarks_allowed": false
+        },
+        {
+          "id": "affogato",
+          "name": "Affogato",
+          "price": 4.5,
+          "available": true,
+          "remarks_allowed": false
+        }
+      ]
+    }
+  ]
+}
